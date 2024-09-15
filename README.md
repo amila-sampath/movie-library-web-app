@@ -21,7 +21,6 @@ The goal of create an interactive movie library application using React Router f
 
    - View a list of favorite movies.
    - Remove movies from the favorites list.
-   - Navigate back to the Home Page.
 
 4. **Navigation**:
    - Use React Router for navigation between pages.
@@ -40,4 +39,48 @@ The goal of create an interactive movie library application using React Router f
 
 ### Prerequisites
 
-- Node.js, vs code and npm (or Yarn) installed on your machine.
+- VS Code, Node.js and npm (or Yarn) installed on your machine.
+
+### Getting Started
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/amila-sampath/movie-library-web-app.git
+   ```
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd movie-library-web-app
+   ```
+
+3. **Install dependencies:**
+   Using npm:
+
+   ```bash
+   npm install
+   ```
+
+   Or using Yarn:
+
+   ```bash
+   yarn install
+   ```
+
+### Running the Application
+
+1. **Start the development server:**
+   Using npm:
+
+   ```bash
+   npm start
+   ```
+
+   Or using Yarn:
+
+   ```bash
+   yarn start
+   ```
+
+2. If not auto open, then Open your browser and go to [http://localhost:3000] to view the application.
