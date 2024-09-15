@@ -1,0 +1,20 @@
+.search-bar {
+    margin: 20px auto; /* Center the search bar with margin */
+    max-width: 600px; /* Max width for the search bar */
+    display: flex; /* Flex container for center alignment */
+  }
+  
+  .search-input {
+    width: 100%; /* Full width of the container */
+    padding: 10px; /* Padding inside the input */
+    font-size: 16px; /* Font size for the input text */
+    border: 1px solid #ddd; /* Light border */
+    border-radius: 4px; /* Rounded corners */
+    outline: none; /* Remove default outline */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+  
+  .search-input:focus {
+    border-color: #007bff; /* Blue border on focus */
+  }
+  

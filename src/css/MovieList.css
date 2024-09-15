@@ -1,0 +1,8 @@
+/* Flex container styles */
+.movieCardContainer {
+    display: flex;
+    flex-wrap: wrap; /* Allows cards to wrap to the next line */
+    gap: 20px; /* Space between cards */
+    justify-content: center; /* Center cards horizontally */
+  }
+  

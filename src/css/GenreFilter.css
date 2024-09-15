@@ -1,0 +1,21 @@
+.genre-filter {
+    margin: 20px auto; /* Center the filter with margin */
+    max-width: 600px; /* Max width for the filter */
+  }
+  
+  .genre-select {
+    width: 100%; /* Full width of the container */
+    padding: 10px; /* Padding inside the select */
+    font-size: 16px; /* Font size for the select text */
+    border: 1px solid #ddd; /* Light border */
+    border-radius: 4px; /* Rounded corners */
+    outline: none; /* Remove default outline */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    background-color: #fff; /* White background */
+    cursor: pointer; /* Pointer cursor on hover */
+  }
+  
+  .genre-select:focus {
+    border-color: #007bff; /* Blue border on focus */
+  }
+  
